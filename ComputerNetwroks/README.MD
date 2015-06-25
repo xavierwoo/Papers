@@ -4,9 +4,11 @@
 Computer Networks (ISSN: 1389-1286)
 
 
-It is not intended to be the final version of the article.  
-The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. 
+##Abstract
+This paper studies the traffic grooming and routing problem with simple path constraint (denoted as GR) in WDM mesh networks. To the best of our knowledge, the simple path constraint has not been studied in previous literature. However, this non-trivial constraint is essential in practice and it makes the traffic grooming and routing problem become much more challenging due to the introduction of quadratic constraints. By giving the mathematical formulation of the GR problem, we propose a greedy randomized adaptive search procedure (GRASP) for solving the GR problem, and introduce a mechanism to tackle the interaction between the grooming problem and the routing problem. To test the performance of the proposed GRASP algorithm, we apply it to tackle three sets of totally 38 instances generated according to real-world scenarios. Computational results show the efficacy of the GRASP algorithm in terms of both solution quality and search efficiency by comparison with public software LocalSolver and the lower bounds obtained by CPLEX.
 
+##Keywords
+Metaheuristics; Traffic grooming and routing; WDM mesh network; GRASP; Local search
 The instances used in the paper can be found in    https://github.com/xavierwoo/Instances/tree/master/Traffic_grooming_and_routing
 
 ##Bibtex
