@@ -1,3 +1,9 @@
+###JOCO\\
+####Journal of COmbinatorial Optimization
+
+Multi-neighborhood based iterated tabu search for routing and wavelength assignment problem
+doi:10.1007/s10878-015-9962-y
+
 ###AppliedSoftComputing\\
 ####Applied Soft Computing
 
