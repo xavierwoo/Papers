@@ -1,3 +1,10 @@
+###AppliedSoftComputing\\
+####Applied Soft Computing
+
+Two-level iterated local search for WDM network design problem with traffic grooming
+doi:10.1016/j.asoc.2015.08.044
+
+
 ###ICNC2014\\
 ####Natural Computation (ICNC), 2014 10th International Conference on
 
