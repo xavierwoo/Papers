@@ -1,5 +1,5 @@
 ###JOCO\\
-####Journal of COmbinatorial Optimization
+####Journal of Combinatorial Optimization
 ISSN: 1382-6905
 
 
